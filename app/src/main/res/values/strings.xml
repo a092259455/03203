@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">03203</string>
+    <string name="hint_aa">國文</string>
+    <string name="hint_bb">英文</string>
+    <string name="hint_cc">數學</string>
+    <string name="hint_ff">android</string>
+    <string name="text_dd">送出</string>
+    <string name="text_ee">返回</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
